@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="SetUpSkin" width="640" height="1136" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" >
+	<w:Config id="16927a9d364" ></w:Config>
+	<e:Rect width="438" height="344" y="314" anchorOffsetX="0" anchorOffsetY="0" horizontalCenter="0" fillColor="0x2accd3"/>
+	<e:Label text="设置" x="283" y="340"/>
+	<e:Label text="音乐" x="140" y="420"/>
+	<e:Label text="音效" x="140" y="490"/>
+	<e:Label text="音量" x="140" y="550"/>
+	<e:HSlider id="volume" width="252" height="18" x="248" y="556" anchorOffsetX="0" anchorOffsetY="0"/>
+	<e:ToggleSwitch id="Music" label="ToggleButton" x="300" y="420"/>
+	<e:ToggleSwitch id="Effect" label="ToggleButton" x="300" y="490"/>
+</e:Skin>
